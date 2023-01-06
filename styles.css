@@ -1,0 +1,43 @@
+
+
+#btn-load
+{
+    height: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+body
+{
+    font-family: 'Jost', sans-serif;
+}
+
+#error-msg
+{
+    text-align: center;
+}
+
+#search-container
+{
+    position: absolute;
+    left: 40%;
+    display: flex;
+    gap: 10px;
+    
+}
+
+
+
+#university-container {
+    margin-top: 100px;
+    margin-left: 10%;
+    
+}
+
+.eachUniversity
+{
+    display: block;
+}
+
